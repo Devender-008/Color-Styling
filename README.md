@@ -17,7 +17,7 @@ This project demonstrates how to use HTML and CSS to create a visually appealing
 
 ## Customization
 
-- **Changing Colors**: You can easily change the colors of the headings and paragraphs by modifying the `styles.css` file.
+- **Changing Colors**: You can easily change the colors of the headings and paragraphs by modifying the `style.css` file.
 - **Adding More Elements**: Add more HTML elements in the `index.html` file and style them in `style.css` as needed.
 - **Experiment with Styles**: Play around with different CSS properties like font-family, font-size, padding, margin, etc., to see how they affect the layout and design.
 
