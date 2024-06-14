@@ -5,7 +5,7 @@ This project demonstrates how to use HTML and CSS to create a visually appealing
 ## Project Structure
 
 - `index.html`: The main HTML file containing the structure of the web page.
-- `styles.css`: The CSS file containing styles applied to the HTML elements.
+- `style.css`: The CSS file containing style applied to the HTML elements.
 
 ## Features
 
@@ -18,7 +18,7 @@ This project demonstrates how to use HTML and CSS to create a visually appealing
 ## Customization
 
 - **Changing Colors**: You can easily change the colors of the headings and paragraphs by modifying the `styles.css` file.
-- **Adding More Elements**: Add more HTML elements in the `index.html` file and style them in `styles.css` as needed.
+- **Adding More Elements**: Add more HTML elements in the `index.html` file and style them in `style.css` as needed.
 - **Experiment with Styles**: Play around with different CSS properties like font-family, font-size, padding, margin, etc., to see how they affect the layout and design.
 
 ## live 
