@@ -21,11 +21,11 @@ This project demonstrates how to use HTML and CSS to create a visually appealing
 - **Adding More Elements**: Add more HTML elements in the `index.html` file and style them in `style.css` as needed.
 - **Experiment with Styles**: Play around with different CSS properties like font-family, font-size, padding, margin, etc., to see how they affect the layout and design.
 
-## live 
+## Website
 
 Here's a preview of what the project:
 
-[webssite](https://devender-008.github.io/Color-Styling/)
+[website](https://devender-008.github.io/Color-Styling/)
 
 ## Contributing
 
