@@ -23,7 +23,7 @@ This project demonstrates how to use HTML and CSS to create a visually appealing
 
 ## Website
 
-Here's a preview of what the project:
+Here's a preview of the project:
 
 [website](https://devender-008.github.io/Color-Styling/)
 
